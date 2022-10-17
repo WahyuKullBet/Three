@@ -12,5 +12,5 @@ $ pkg install git
 $ git clone https://github.com/WahyuKullBet/Three
 $ cd Three
 $ ls
-$ php WahyuThree.php
+$ php Three.php
 ```
