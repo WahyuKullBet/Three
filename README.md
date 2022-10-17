@@ -4,7 +4,8 @@
 
 > KALO ADA YANG MINTA BAYARAN JAN MAU YA GOBOL
 
-### »COMMAND
+»COMMAND
+
 $ apt update && apt upgrade
 $ pkg install php
 $ pkg install git
